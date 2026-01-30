@@ -91,13 +91,3 @@ public class EnrollmentOfficer {
 ![Screenshot 12](screenshots/Screenshot%20from%202026-01-29%2022-29-35.png)
 ![Screenshot 13](screenshots/Screenshot%20from%202026-01-29%2022-29-45.png)
 
-## Características
-
-- **Separación de responsabilidades**: Cada componente maneja su función específica
-- **Interfaz limpia**: Gestión intuitiva de inscripciones
-- **Validación de datos**: Control sobre la información del estudiante
-- **Revisión y aprobación**: Proceso de validación por director
-
-## Licencia
-
-Consultar el archivo LICENSE para más detalles.
